@@ -1,0 +1,28 @@
+{
+  "name": "nodemailer",
+  "version": "4.4.0",
+  "description": "node mailer for email",
+  "main": "index.js",
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "nodemailer": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swappy208/auto-email-updates.git"
+  },
+  "keywords": [
+    "email",
+    "mail"
+  ],
+  "author": "swappy208",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swappy208/auto-email-updates/issues"
+  },
+  "homepage": "https://github.com/swappy208/auto-email-updates#readme"
+}
